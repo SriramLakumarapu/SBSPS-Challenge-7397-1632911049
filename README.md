@@ -2,7 +2,7 @@
 SDG 2 Zero Hunger
 
 ### Team Members:
-1. sriram.L(https://github.com/SriramLakumarapu)
+sriram.L(https://github.com/SriramLakumarapu)
 ### Dataset Used:
 https://docs.google.com/spreadsheets/d/1UUeTeAdDiyVM3tU5RU6V_5mxp6AM_ysh/edit#gid=4627908
 https://docs.google.com/spreadsheets/d/1UUeTeAdDiyVM3tU5RU6V_5mxp6AM_ysh/edit#gid=1276672012
